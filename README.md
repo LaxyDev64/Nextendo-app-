@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://nextendo.network/assets/favicon.svg" alt="Nextendo Network" width="120" />
+<img src="width="2720" height="2720" alt="moon_icon" src="https://github.com/user-attachments/assets/0f5fef1f-b90c-4cf4-bf52-d7285f4f5875" " alt="Nextendo Network" width="120" />
 
 # Nextendo Network App
 A complementary app for nextendo wich let's you add friends, se their and your online status and message them.
